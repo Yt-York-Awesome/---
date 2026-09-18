@@ -1,0 +1,27 @@
+# ===== Keil MDK 编译产物 =====
+Output/
+RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.htm
+*.build_log.htm
+*.lnp
+*.map
+*.sct
+*.lst
+*.dep
+*.bak
+
+# ===== Keil 用户界面配置 =====
+*.uvguix.*
+
+# ===== 工程备份（不发布） =====
+MiniSTM32-G6 - 备份/
+
+# ===== 系统 / 编辑器 =====
+Thumbs.db
+Desktop.ini
+.vscode/
